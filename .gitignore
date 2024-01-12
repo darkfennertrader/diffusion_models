@@ -3,3 +3,5 @@ models/*
 train_inages/*
 *.pyc
 *.png
+*.gz
+data/
